@@ -1,0 +1,88 @@
+<?php
+	require 'conexion.php';
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+		<title>Portafolio | Home</title>
+
+	<meta name="viewport" content="width=device-whit, initial-scale=1.0">
+	
+	<link rel="stylesheet" type="text/css" href="styles.css">
+
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>	
+<link href='http://fonts.googleapis.com/css?family=RobotoCondensed:400,300,700' rel='stylesheet' type='text/css'>	
+
+
+</head>
+<body>
+	<div class="wrapper paso-1">
+	<header class="header">
+		<div class="contain">
+			<h1><img src="images/logo.png" alt="brushell"></h1>
+		</div>
+	</header> 
+
+	<nav class="navbar">
+		<span class="item"><span>1</span> <span>Datos personales</span></span>
+		<span class="item"><span>2</span> <span>Otros de interés</span></span>
+		<span class="item"><span>3</span> <span>Finalizar</span></span>
+	</nav>
+
+	<div class="contain content">
+	<header>
+		<h2>¡HOLA!,</h2>
+		<p>En pocos minutos pasarás a formar parte de la red social. </p> 
+	</header>
+
+		<form class="form">
+
+			
+
+			<div class="col file">
+				<input type="file">
+			</div>
+
+
+		<div class="col">
+			<label>NOMBRE <span class="tooltip">?</span></label>
+			<input type="text">
+
+			<label>USUARIO <span class="tooltip">?</span></label>
+			<input type="text">
+
+			<label>EMAIL <span class="tooltip">?</span></label>
+			<input type="email">
+		</div>
+
+		<div class="col">
+			<label>SELECCIONA GENERO <span class="tooltip">?</span></label>
+			<select></select>
+
+			<label>CONSTRASEÑA <span class="tooltip">?</span></label>
+			<input type="password">
+
+			<label>FECHA DE NACIMIENTO <span class="tooltip">?</span></label>
+			<div class="fecha_nacimiento">
+				<input type="text" class="small">
+				<input type="text" class="small">
+				<input type="text" class="small">
+			</div>
+		</div>
+
+		<div class="col all">
+			<input type="checkbox">
+			<span>Aceptar terminos y condiciones </span>
+</div>
+<div>
+			<input type="submit" value="Sigiente">
+		</div>
+	</form>
+</div>
+
+</div>
+</body>
+</html>

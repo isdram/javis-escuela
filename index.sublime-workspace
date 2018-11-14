@@ -1,0 +1,521 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"genero",
+				"genero"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"mysql_",
+				"mysql_query"
+			],
+			[
+				"chec",
+				"check_mail"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"EM",
+				"email"
+			],
+			[
+				"f",
+				"f2"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"boder",
+				"border-radius\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"In",
+				"Ingreso"
+			],
+			[
+				"bac",
+				"background-attachment\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"mari",
+				"margin-left\tproperty"
+			],
+			[
+				"pos",
+				"object-position\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"ta",
+				"table-column\tdisplay"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"co",
+				"content\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"fl",
+				"flex-start\talign-items"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"pal",
+				"paletaX"
+			],
+			[
+				"c",
+				"canvas"
+			],
+			[
+				"ele",
+				"else"
+			],
+			[
+				"wi",
+				"width-paletaAncho"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"paleta",
+				"paletaX"
+			],
+			[
+				"flec",
+				"flechaIzquierda"
+			],
+			[
+				"flc",
+				"flechaDerecha"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"paleta"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ct",
+				"ctx"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 743,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/styles.css",
+		"/C/xampp/htdocs/nuevo.php",
+		"/C/xampp/htdocs/paso-1.html",
+		"/C/xampp/htdocs/conexion.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/login_html_unicornio/paso-1.html",
+		"/C/xampp/htdocs/login_html_unicornio/index.php",
+		"/C/xampp/htdocs/login_html_unicornio/conexion.php",
+		"/C/xampp/htdocs/login_html_unicornio/guardar.php",
+		"/C/xampp/htdocs/login_html_unicornio/nuevo.php",
+		"/C/xampp/htdocs/info.php",
+		"/C/xampp/htdocs/jvr/php.info",
+		"/C/xampp/htdocs/jvr/connect_db.php",
+		"/C/xampp/htdocs/jvr/validar.php",
+		"/C/xampp/htdocs/jvr/registro.php",
+		"/C/xampp/htdocs/jvr/index.php",
+		"/C/Users/jvr-j/Desktop/login2/index.php",
+		"/C/Users/jvr-j/Desktop/login2/registro.php",
+		"/C/Users/jvr-j/Desktop/login2/connect_db.php",
+		"/C/Users/jvr-j/Desktop/login2/validar-php.php",
+		"/C/Users/jvr-j/Desktop/Jvr/menu_dos/validar.php",
+		"/C/Users/jvr-j/Desktop/Jvr/menu_dos/registro.php",
+		"/C/Users/jvr-j/Desktop/Jvr/menu_dos/connect_db.php",
+		"/C/Users/jvr-j/Desktop/Jvr/menu_dos/index.php",
+		"/C/Users/jvr-j/Desktop/Jvr/menu_dos/menu_dos.html",
+		"/C/Users/jvr-j/Desktop/Jvr/menu_dos/styles.css",
+		"/C/Users/jvr-j/Desktop/Jvr/mi1erhtmlcss/style.css",
+		"/C/Users/jvr-j/Desktop/Jvr/menu_dos/styules.css",
+		"/C/Users/jvr-j/Desktop/Jvr/mi1erhtmlcss/javier.html",
+		"/C/Users/jvr-j/Desktop/Jvr/mi1erhtmlcss/menu.html",
+		"/C/Users/jvr-j/Desktop/Jvr/js_diseñadores/styles.css",
+		"/C/Users/jvr-j/Desktop/Jvr/js_diseñadores/paso-3.html",
+		"/C/Users/jvr-j/Desktop/Jvr/js_diseñadores/paso-1.html",
+		"/C/Users/jvr-j/Desktop/Jvr/js_diseñadores/login-error.html",
+		"/C/Users/jvr-j/Desktop/Jvr/js_diseñadores/login.html",
+		"/C/Users/jvr-j/Desktop/Jvr/js_diseñadores/paso-2.html",
+		"/C/Users/jvr-j/Desktop/Edgardo_Javier_Garcia_Chavez/taller.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
